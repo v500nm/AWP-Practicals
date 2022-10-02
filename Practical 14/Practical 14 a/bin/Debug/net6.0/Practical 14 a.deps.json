@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practical 14 a/1.0.0": {
+        "runtime": {
+          "Practical 14 a.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical 14 a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

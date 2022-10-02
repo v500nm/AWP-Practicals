@@ -1,0 +1,15 @@
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\bin\Debug\net6.0\Practical 14 a.exe
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\bin\Debug\net6.0\Practical 14 a.deps.json
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\bin\Debug\net6.0\Practical 14 a.runtimeconfig.json
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\bin\Debug\net6.0\Practical 14 a.dll
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\bin\Debug\net6.0\Practical 14 a.pdb
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.csproj.AssemblyReference.cache
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.AssemblyInfoInputs.cache
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.AssemblyInfo.cs
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.csproj.CoreCompileInputs.cache
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.dll
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\refint\Practical 14 a.dll
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.pdb
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\Practical 14 a.genruntimeconfig.cache
+C:\Users\vaide\source\repos\Practical 14 a\Practical 14 a\obj\Debug\net6.0\ref\Practical 14 a.dll
